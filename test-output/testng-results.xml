@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29213" started-at="2016-05-03T10:02:49Z" finished-at="2016-05-03T10:03:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29213" started-at="2016-05-03T10:02:49Z" finished-at="2016-05-03T10:03:18Z">
+      <class name="testsel.Gurukulatestcases">
+        <test-method status="PASS" signature="initialise()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="initialise" is-config="true" duration-ms="16270" started-at="2016-05-03T15:32:49Z" finished-at="2016-05-03T15:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="setup" is-config="true" duration-ms="19" started-at="2016-05-03T15:33:05Z" finished-at="2016-05-03T15:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="branchcreate()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="branchcreate" duration-ms="14" started-at="2016-05-03T15:33:05Z" finished-at="2016-05-03T15:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchcreate -->
+        <test-method status="PASS" signature="branchsearch()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="branchsearch" duration-ms="3" started-at="2016-05-03T15:33:05Z" finished-at="2016-05-03T15:33:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchsearch -->
+        <test-method status="PASS" signature="branchverify()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="branchverify" duration-ms="12773" started-at="2016-05-03T15:33:05Z" finished-at="2016-05-03T15:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchverify -->
+        <test-method status="PASS" signature="cleardata()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="cleardata" duration-ms="2" started-at="2016-05-03T15:33:18Z" finished-at="2016-05-03T15:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleardata -->
+        <test-method status="PASS" signature="staffverify()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="staffverify" duration-ms="2" started-at="2016-05-03T15:33:18Z" finished-at="2016-05-03T15:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staffverify -->
+        <test-method status="PASS" signature="endprocess()[pri:0, instance:testsel.Gurukulatestcases@4ec6a292]" name="endprocess" is-config="true" duration-ms="72" started-at="2016-05-03T15:33:18Z" finished-at="2016-05-03T15:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endprocess -->
+      </class> <!-- testsel.Gurukulatestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
