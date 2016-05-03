@@ -87,7 +87,12 @@ public void staffedit() throws InterruptedException {
 @org.testng.annotations.Test
 public void cleardata() {
 	
+	testm.entityclick(driver);
+	testm.branchclick(driver);
 	testm.branchdelete(driver);
+	
+	testm.entityclick(driver);
+	testm.staffcheck(driver);
 	testm.staffdelete(driver);
 	
 }
